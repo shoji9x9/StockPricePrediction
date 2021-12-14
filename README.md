@@ -1,5 +1,5 @@
 # Overview
-This is a 2nd solution of [US Stock Price Prediction](https://comp.probspace.com/competitions/us_stock_price) competition hosted by ProbSpace in Japan.
+This is the 2nd solution of [US Stock Price Prediction](https://comp.probspace.com/competitions/us_stock_price) competition hosted by ProbSpace in Japan.
 
 # About this competition
 * Develop an algorithm to predict the stock price one week later using the stock price transition data of the US Stock Exchange.
