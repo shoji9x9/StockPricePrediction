@@ -57,7 +57,7 @@ The base features are the same as [LightGBM Base line (LB = 0.03781)](https://co
 |9|ExtraTrees_NASDAQ|base features|
 
 ## Score
-0.03692 in Private LB.
+0.03692 in [Private LB](https://comp.probspace.com/competitions/us_stock_price/ranking).
 
 # How to open it on Google Colaboratory
 Please take a look at [How-to-open-ipynb-on-Google-Colaboratory](https://github.com/shoji9x9/How-to-open-ipynb-on-Google-Colaboratory).
